@@ -8,7 +8,7 @@ namespace GitScc
     /// VSCT file.
     /// </summary>
     static class CommandId
-    {
+    {//cmkpk
         // Define the list a set of public static members.
         public const int icmdSccCommandRefresh = 0x101;
         public const int icmdSccCommandGitBash = 0x102;
